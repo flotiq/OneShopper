@@ -5,6 +5,7 @@
 Gatsby Starter: Ecommerce and Flotiq
 ========================
 
+We are retiring this starter, please use https://github.com/flotiq/flotiq-gatsby-shop-1 and https://github.com/flotiq/flotiq-gatsby-shop-2
 
 This is a [Gatsby](https://gatsbyjs.org) starter project for ecommerce using [Snipcart](https://snipcart.com). It's configured to pull products data from [Flotiq](https://flotiq.com) and can be easily deployed to your cloud hosting - Heroku, Netlify, Gatsby Cloud, etc.
 
